@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729308501748",
+    "project_id": "bgufitness-a4904",
+    "storage_bucket": "bgufitness-a4904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729308501748:android:162171c2722e43358070a1",
+        "android_client_info": {
+          "package_name": "com.example.bgmfitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSQt7y3rkpo9_h-D5GNmJVChlCaa8T2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
